@@ -15,10 +15,13 @@
 # 📊 GitHub Stats:
 
 ![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=chollie1987&show_icons=true&theme=cobalt)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chollie1987&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chollie1987&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chollie1987&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chollie1987&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 (http://github.com/chollie1987/github-readme-stats)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chollie1987&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chollie1987&icon=0&color=0)](https://visitcount.itsvg.in)
