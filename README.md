@@ -6,6 +6,6 @@
   and POC's that they have a place in the tech community. I'm eagar to be a part of an amazing company that shares my values and where I can further my creativity and 
   skills.
 
-![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=chollie1987&show_icons=true)
+![Christina's GitHub stats](https://github-readme-stats.vercel.app/api?username=chollie1987&show_icons=true&theme=cobalt)
 
 (http://github.com/chollie1987/github-readme-stats)
