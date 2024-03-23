@@ -1,4 +1,4 @@
-## Hi I'm Christina!
+ # Hi I'm Christina!
 
 - I'm a full stack developer exerienced working with Javascript, Node.js, React.js, Express.js, MongoDB, HTML, CSS, etc.
 - Studied at Code Fellows👩🏽‍💻
